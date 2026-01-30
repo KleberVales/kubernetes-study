@@ -17,5 +17,6 @@
 - Service
 - Ingress
 - Ingress Controller (Nginx, Traefik)
+- DNS no Kubernetes
 
 ## Basic Commands
