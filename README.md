@@ -67,4 +67,6 @@
 - Secrets vs Vault
 - Pod Security Standards
 
+## Deployment and Automation
+
 ## Basic Commands
