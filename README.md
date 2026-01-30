@@ -14,6 +14,7 @@
 
 - Application in the cluster
 - Control Plane Components
+- Worker Node Components
 
 ## Kubernetes Networking
 
