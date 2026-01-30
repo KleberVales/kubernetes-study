@@ -15,5 +15,6 @@
 ## Kubernetes Networking
 
 - Service
+- Ingress
 
 ## Basic Commands
