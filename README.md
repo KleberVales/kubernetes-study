@@ -39,4 +39,6 @@
 - StorageClass
 - Stateful apps (PostgreSQL, Kafka, etc.)
 
+## Scalability and High Availability
+
 ## Basic Commands
