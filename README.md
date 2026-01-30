@@ -8,6 +8,7 @@
 ## Kubernetes Architecture
 
 - Cluster
+- Control Plane & Worker Nodes
 
 ## Kubernetes Components
 
