@@ -24,4 +24,6 @@
 - DNS no Kubernetes
 - Comunicação entre Pods
 
+## Configuração e Segredos
+
 ## Basic Commands
