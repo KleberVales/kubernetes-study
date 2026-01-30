@@ -24,11 +24,13 @@
 - DNS no Kubernetes
 - Comunicação entre Pods
 
-## Configuração e Segredos
+## Configuration and Secrets
 
 - ConfigMap
 - Secret
-- Variáveis de ambiente
-- Externalizar configurações (12-factor app)
+- Environment Variables
+- Externalize settings (12-factor app)
+
+## Storage
 
 ## Basic Commands
