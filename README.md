@@ -48,4 +48,6 @@
 - Rollback
 - Self-healing (restart, reschedule)
 
+## Observability and Monitoring
+
 ## Basic Commands
