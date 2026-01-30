@@ -16,5 +16,6 @@
 
 - Service
 - Ingress
+- Ingress Controller (Nginx, Traefik)
 
 ## Basic Commands
