@@ -41,4 +41,11 @@
 
 ## Scalability and High Availability
 
+- Horizontal Pod Autoscaler (HPA)
+- Vertical Pod Autoscaler (VPA)
+- Auto-scaling baseado em CPU/memória
+- Rolling Update
+- Rollback
+- Self-healing (restart, reschedule)
+
 ## Basic Commands
