@@ -77,4 +77,11 @@
 
 ## Kubernetes for Java Backend / Microservices
 
+- Spring Boot Deployment on Kubernetes
+- Profile Configuration
+- Health Checks (Actuator)
+- Kafka on Kubernetes
+- Synchronous vs. Asynchronous Communication
+- Circuit Breaker + Retries
+
 ## Basic Commands
