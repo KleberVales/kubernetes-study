@@ -2,6 +2,8 @@
 
 ## Introduction to Kubernetes
 
+- What is Kubernetes?
+
 ## Kubernetes Architecture
 
 ## Kubernetes Components
