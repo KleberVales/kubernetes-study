@@ -3,6 +3,7 @@
 ## Introduction to Kubernetes
 
 - What is Kubernetes?
+- Docker
 
 ## Kubernetes Architecture
 
