@@ -12,6 +12,8 @@
 
 ## Kubernetes Components
 
+- Application in the cluster
+
 ## Kubernetes Networking
 
 - Service
