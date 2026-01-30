@@ -26,4 +26,9 @@
 
 ## Configuração e Segredos
 
+- ConfigMap
+- Secret
+- Variáveis de ambiente
+- Externalizar configurações (12-factor app)
+
 ## Basic Commands
