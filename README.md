@@ -33,4 +33,10 @@
 
 ## Storage
 
+- Volumes
+- PersistentVolume (PV)
+- PersistentVolumeClaim (PVC)
+- StorageClass
+- Stateful apps (PostgreSQL, Kafka, etc.)
+
 ## Basic Commands
