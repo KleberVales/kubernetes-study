@@ -13,6 +13,7 @@
 ## Kubernetes Components
 
 - Application in the cluster
+- Control Plane Components
 
 ## Kubernetes Networking
 
