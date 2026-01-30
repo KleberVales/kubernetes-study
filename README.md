@@ -7,6 +7,8 @@
 
 ## Kubernetes Architecture
 
+- Cluster
+
 ## Kubernetes Components
 
 ## Kubernetes Networking
