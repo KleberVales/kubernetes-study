@@ -60,4 +60,11 @@
 
 ## Security in Kubernetes
 
+- RBAC
+- ServiceAccount
+- Namespace
+- Network Policies
+- Secrets vs Vault
+- Pod Security Standards
+
 ## Basic Commands
