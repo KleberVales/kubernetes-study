@@ -50,4 +50,12 @@
 
 ## Observability and Monitoring
 
+- Liveness Probe
+- Readiness Probe
+- Startup Probe
+- Logs de Pods
+- Metrics Server
+- Prometheus
+- Grafana
+
 ## Basic Commands
