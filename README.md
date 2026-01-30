@@ -18,5 +18,6 @@
 - Ingress
 - Ingress Controller (Nginx, Traefik)
 - DNS no Kubernetes
+- Comunicação entre Pods
 
 ## Basic Commands
