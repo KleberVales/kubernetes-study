@@ -69,4 +69,10 @@
 
 ## Deployment and Automation
 
+- Manifests YAML
+- Helm (charts, values)
+- Kustomize
+- GitOps (ArgoCD / Flux)
+- Deploy de microserviços Spring Boot
+
 ## Basic Commands
