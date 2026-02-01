@@ -1,6 +1,6 @@
 # kubernetes-study
 
-## [Introduction to Kubernetes](https://github.com/KleberVales/oci-devops-guide/wiki/03-Kubernetes-Basics)
+## [Introduction to Kubernetes](https://github.com/KleberVales/kubernetes-study/wiki/01-Introduction-to-Kubernetes)
 
 - What is Kubernetes?
 - Docker
