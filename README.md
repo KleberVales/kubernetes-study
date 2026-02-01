@@ -5,7 +5,7 @@
 - What is Kubernetes?
 - Docker
 
-## Kubernetes Architecture
+## [Kubernetes Architecture](https://github.com/KleberVales/kubernetes-study/wiki/01-Introduction-to-Kubernetes)
 
 - Cluster
 - Control Plane & Worker Nodes
