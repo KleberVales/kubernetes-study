@@ -10,7 +10,7 @@
 - Cluster
 - Control Plane & Worker Nodes
 
-## Kubernetes Components
+## [Kubernetes Components](https://github.com/KleberVales/kubernetes-study/wiki/03-Kubernetes-Components)
 
 - Application in the cluster
 - Control Plane Components
